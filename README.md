@@ -1,4 +1,4 @@
-# Pipeline de Dados — Viagens a Serviço (Portal da Transparência)
+# Objetivo: Construir, do zero, um pipeline de dados preservando o histórico original, limpar a estrutura e transformar os dados brutos em métricas e gráficos claros
 
 ## 1. Problema que o projeto resolve
 Os dados de Viagens a Serviço do Governo Federal são publicados no Portal da
