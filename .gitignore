@@ -1,0 +1,16 @@
+
+.env
+
+*.zip
+*.csv
+data/
+
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+
+.vscode/
